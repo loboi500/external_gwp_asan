@@ -1,18 +1,3 @@
-{
-  "presubmit": [
-    {
-      "name": "CtsGwpAsanTestCases"
-    },
-    {
-      "name": "debuggerd_test"
-    },
-    {
-      "name": "gwp_asan_unittest"
-    }
-  ],
-  "imports": [
-    {
-      "path": "bionic"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6f61219fe62a0698085e2ede4e35abdb6787c9c8cc9717dc250993c956d722b
+size 219
